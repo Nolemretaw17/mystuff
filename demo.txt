@@ -1,0 +1,10 @@
+9
+add 2 5
+sub 2 5
+mul 2 5
+rem 2 5
+min 2 5
+max 2 5
+gcd 2 5
+lcm 2 5
+dif 2 5
